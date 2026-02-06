@@ -1,0 +1,8 @@
+{
+  "name": "Findonce",
+  "description": "A vibrant social discovery platform featuring voice hubs, real-time matching, and a gamified experience with virtual gifts and coin packs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
